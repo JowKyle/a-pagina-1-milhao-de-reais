@@ -1,21 +1,17 @@
 {
   "name": "a-pagina-1-milhao-de-reais",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3000",
+    "dev": "next dev",
     "build": "next build",
-    "start": "next start -p 3000"
+    "start": "next start"
   },
   "dependencies": {
     "next": "14.2.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "node-fetch": "2.6.9",
-    "@supabase/supabase-js": "2.23.0",
-    "sharp": "0.32.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "micro": "^10.0.1",
-"formidable": "^3.5.1"
-
+    "formidable": "^3.5.1"
   }
 }
