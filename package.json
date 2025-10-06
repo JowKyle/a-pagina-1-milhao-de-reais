@@ -14,5 +14,8 @@
     "node-fetch": "2.6.9",
     "@supabase/supabase-js": "2.23.0",
     "sharp": "0.32.1"
+    "micro": "^10.0.1",
+"formidable": "^3.5.1"
+
   }
 }
